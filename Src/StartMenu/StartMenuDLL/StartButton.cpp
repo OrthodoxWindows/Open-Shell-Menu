@@ -21,7 +21,7 @@
 
 static int START_ICON_SIZE=0;
 const int START_BUTTON_PADDING=3;
-const int START_BUTTON_OFFSET=2;
+const int START_BUTTON_OFFSET=1;
 const int START_TEXT_PADDING=2;
 const int BLEND_PRECISION=1000;
 
